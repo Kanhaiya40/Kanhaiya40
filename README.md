@@ -1,7 +1,7 @@
 Hi, I'm Kanhaiya Kumar Singh 👋
 I code every day—that’s why I am a Software Engineer.
 
-🚀 Android Developer | Flutter Developer | Self-Taught Programmer | Open Source Enthusiast
+🚀 Flutter Developer | Self-Taught Programmer | Open Source Enthusiast
 
 🔹 Professional Experience:
 Currently working at Esmagico, contributing to scalable and efficient solutions.
